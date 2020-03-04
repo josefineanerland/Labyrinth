@@ -1,0 +1,13 @@
+C:\Users\Svea User\Source\Repos\Labb4Done\bin\Debug\Labb44.exe.config
+C:\Users\Svea User\Source\Repos\Labb4Done\bin\Debug\Labb44.exe
+C:\Users\Svea User\Source\Repos\Labb4Done\bin\Debug\Labb44.pdb
+C:\Users\Svea User\Source\Repos\Labb4Done\obj\Debug\Labb44.csprojAssemblyReference.cache
+C:\Users\Svea User\Source\Repos\Labb4Done\obj\Debug\Labb44.csproj.CoreCompileInputs.cache
+C:\Users\Svea User\Source\Repos\Labb4Done\obj\Debug\Labb44.exe
+C:\Users\Svea User\Source\Repos\Labb4Done\obj\Debug\Labb44.pdb
+C:\Users\Svea User\source\repos\Programmering med C\Labb4Done\bin\Debug\Labb44.exe.config
+C:\Users\Svea User\source\repos\Programmering med C\Labb4Done\bin\Debug\Labb44.exe
+C:\Users\Svea User\source\repos\Programmering med C\Labb4Done\bin\Debug\Labb44.pdb
+C:\Users\Svea User\source\repos\Programmering med C\Labb4Done\obj\Debug\Labb44.csprojAssemblyReference.cache
+C:\Users\Svea User\source\repos\Programmering med C\Labb4Done\obj\Debug\Labb44.exe
+C:\Users\Svea User\source\repos\Programmering med C\Labb4Done\obj\Debug\Labb44.pdb
